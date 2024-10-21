@@ -1,9 +1,9 @@
--Project name:  Dogs
--Package name:  com.chaudhry.najeeb.dogs
--Author:        Najeeb Chaudhry
--Date completed:  10/18/2024 - 10/21/2024 - Took 3 days to complete
--Purpose:      For Toyota hiring team
--Email:        najeeb2kz@yahoo.com
+- Project name:  Dogs
+- Package name:  com.chaudhry.najeeb.dogs
+- Author:        Najeeb Chaudhry
+- Date completed:  10/18/2024 - 10/21/2024 - Took 3 days to complete
+- Purpose:      For Toyota hiring team
+- Email:        najeeb2kz@yahoo.com
 
 -Description: I've created this app using following framework/apis for Toyota hiring team:
 - Android 15, API level 35
